@@ -11,3 +11,6 @@ monitoring.ui.container.elasticsearch.enabled: true
 #
 elasticsearch.username: elastic
 elasticsearch.password: changeme
+
+kibana.autocompleteTimeout: 3000
+kibana.autocompleteTerminateAfter: 10000000
